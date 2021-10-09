@@ -26,4 +26,3 @@ var slider = document.getElementById("myRange").oninput = function(){
     this.style.background = 'linear-gradient(to right, #e795a4 0%, #026bdb ' + value + '%, #fff ' + value + '%, #fff 100%'
     output.innerHTML = this.value;
 };
-
