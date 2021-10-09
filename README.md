@@ -2,6 +2,4 @@
 
 ### Site personalizado automaticamente de acordo com a hora do dia.
 
-
-Clique [aqui](https://simoneguimaraes.github.io/relogio/).
-
+Para ver, clique <a href="https://simoneguimaraes.github.io/relogio/" target="_blank">aqui</a>.
